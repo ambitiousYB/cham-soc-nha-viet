@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Thị Thu Hà",
+    "age": 29,
+    "phone": "0912.345.678",
+    "specialty": "dọn dẹp",
+    "rating": 5.0,
+    "image": "/images/tho1.png"
+  },
+  {
+    "id": 2,
+    "name": "Trần Thanh Sơn",
+    "age": 34,
+    "phone": "0987.654.321",
+    "specialty": "giặt ủi",
+    "rating": 5.0,
+    "image": "/images/tho2.png"
+  },
+  {
+    "id": 3,
+    "name": "Phạm Hoàng Long",
+    "age": 31,
+    "phone": "0905.888.999",
+    "specialty": "điện lạnh",
+    "rating": 5.0,
+    "image": "/images/tho3.png"
+  },
+  {
+    "id": 4,
+    "name": "Lê Văn Tuấn",
+    "age": 38,
+    "phone": "0932.111.222",
+    "specialty": "điện nước",
+    "rating": 5.0,
+    "image": "/images/tho4.png"
+  }
+]
